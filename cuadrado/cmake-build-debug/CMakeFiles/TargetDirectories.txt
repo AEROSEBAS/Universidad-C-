@@ -1,0 +1,3 @@
+C:/Users/sebastian/CLionProjects/cuadrado/cmake-build-debug/CMakeFiles/cuadrado.dir
+C:/Users/sebastian/CLionProjects/cuadrado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sebastian/CLionProjects/cuadrado/cmake-build-debug/CMakeFiles/rebuild_cache.dir
