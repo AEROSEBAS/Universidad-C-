@@ -1,0 +1,3 @@
+C:/Users/sebastian/CLionProjects/hexa a radianes/cmake-build-debug/CMakeFiles/hexa_a_radianes.dir
+C:/Users/sebastian/CLionProjects/hexa a radianes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sebastian/CLionProjects/hexa a radianes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
