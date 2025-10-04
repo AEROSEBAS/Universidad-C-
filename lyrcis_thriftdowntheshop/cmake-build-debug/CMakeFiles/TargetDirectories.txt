@@ -1,0 +1,3 @@
+C:/Users/sebastian/CLionProjects/lyrcis_thriftdowntheshop/cmake-build-debug/CMakeFiles/lyrcis_thriftdowntheshop.dir
+C:/Users/sebastian/CLionProjects/lyrcis_thriftdowntheshop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sebastian/CLionProjects/lyrcis_thriftdowntheshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
